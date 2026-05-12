@@ -11,8 +11,8 @@ export const DEFAULT_CONFIG = {
   company: {
     name: "Services",
     tagline: "WhatsApp automation for leads & bookings.",
-    logoUrl: "https://storage.googleapis.com/runops-images/final1.png",
-    favicon: "https://storage.googleapis.com/runops-images/final1.png",
+    logoUrl: "https://storage.googleapis.com/runops-images/ziva-logo.png",
+    favicon: "https://storage.googleapis.com/runops-images/ziva-logo.png",
     whatsappNumber: "919739202351",
   },
 
